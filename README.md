@@ -1,7 +1,7 @@
 # 🎬 Movie Library - Библиотека фильмов
 
 **Автор:** Мамонтова Вероника Анатольевна   
-**GitHub:** [https://github.com/mitusdn?tab=repositories]
+**GitHub:** [[https://github.com/mitusdn?tab=repositories](https://github.com/mitusdn/MovieLibrary)]
 
 ## 📖 Описание
 
